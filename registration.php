@@ -1,6 +1,6 @@
 <?php
 /**
- * @author TargetBay
+ * @author TargetBays
  * @copyright Copyright (c) 2016 Targetbay 
  * @package Targetbay tracking
  */
